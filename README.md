@@ -1,12 +1,13 @@
 # Python API Client Library
 
-This project is a reusable Python API client designed to simplify interaction with REST APIs.
+A reusable Python API client library designed to simplify interaction with REST APIs using a clean and modular interface.
 
 ## Features
-- Modular API client design
+- Reusable API client class
+- Modular design for easy integration
 - Error handling for API requests
-- Reusable methods for data fetching
 - Clean and developer-friendly interface
+- Scalable structure for extending endpoints
 
 ## Installation
 
